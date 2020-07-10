@@ -1,0 +1,9 @@
+
+Call:
+ randomForest(formula = INCOME ~ ., data = train, ntree = 100,      importance = TRUE) 
+               Type of random forest: regression
+                     Number of trees: 100
+No. of variables tried at each split: 2
+
+          Mean of squared residuals: 1.313743
+                    % Var explained: 91.15
